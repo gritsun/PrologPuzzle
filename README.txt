@@ -1,0 +1,1 @@
+Solution of puzzle Arrows on SWI Prolog
